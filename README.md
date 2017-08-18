@@ -1,8 +1,7 @@
 # newone
 a temporary one
-## this is the first submission
-
-add some text here!
+## this is the zero chapter
+hehe
 
 ## this is the second submission
 
